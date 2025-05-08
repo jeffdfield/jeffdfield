@@ -1,6 +1,6 @@
 ## Hello World 👋
 
-I'm currently and engineer at a large retailer. I'm the lead EUC engineer, the lead architect and I manage a team of engineers. 
+I currently work at a large retailer. I'm the lead EUC engineer, the lead architect and I manage a team of engineers. 
 
 I'm currently working on full off boarding solution built on Graph API and Azure automation.
 I"m trying to learn Python to broden my skils because I'm awesome at PowerShell. 
